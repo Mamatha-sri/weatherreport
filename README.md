@@ -1,4 +1,3 @@
-"# weatherreport" 
 ## User Interface
 
 - Users can input the city name in a text field.
